@@ -7,12 +7,18 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Creating a website for Bake My Day & Co. Patisserie
 ### Features
-Include Features here
+Creating a dynamic landing page and website for a food truck.
+A menu of offerings, photo gallery and social media interaction to attract and create excitement and engagement 
+A portal for special requests 
 ### Technologies
-Include Technologies here
+JavaScript
+HTML
+CSS
+Thymeleaf 
+BootStrap
 ### What I'll Have to Learn
-Include what you will need to learn here
+How to use BootStrap effectively, attaching a dynamic (Google Maps)
 ### Project Tracker
 Link to your Trello board here
